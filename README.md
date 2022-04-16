@@ -8,7 +8,6 @@
 >  Hello! This is my portfolio. Here you will find every informations about me.
 ### ⚙️ Link
 
-Link da aplicação: <a>http://jguilhermesl.com.br</a>
 ### ⚙️ Adjustments and improvements
 
 The project has been finished.
@@ -27,10 +26,7 @@ The project has been finished.
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./imagens/gui.jpg" width="100px;" alt="Photo of João Guilherme in GitHub"/><br>
-        <sub>
-          <b>João Guilherme</b>
-        </sub>
+        
       </a>
     </td>
   </tr>
