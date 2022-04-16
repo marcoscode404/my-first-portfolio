@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-<img src="./imagens/foto-portfolio.png" alt="foto portfolio" />
+
 
 
 >  Hello! This is my portfolio. Here you will find every informations about me.
